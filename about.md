@@ -1,30 +1,38 @@
 ---
 layout: page
-title: About
+title: What ?
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# Why ?
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+The world is in a critical point. First time in the history all the world is united, like a global community
+Same needs and same problems touch each of us
+Now more than ever, the control of ressources, education, healing system, etc.. belongs in a small group of people, ruling all the others
+Social and justice, environment disasters, spiritual pureness, violence
+People are more than ever separated from the others and from the normal natural way of living.
+Humanity and mother earth need people to accept the challenge to be really human, connected, who cares, and do the best
+That’s why, because we care and believe in this living transition to a more enlightened world
+Hopefully, there is so many tools, so much knowledge that we can use, so much experiences from the past, and so many people, groups, actions existing right now with care.
+Let’s unite
 
-There are currently two themes built on Poole:
+---
+# who are we ? our vision & philosophy. what we expect ?
+what we do is like life: it is growing already, it is a process, a transition that will happen anyway
+we are volonteers that care about things and want to build things that correspond to values
+we care about things, we care about each of us
+we want to solve problems we have: go out of slavery, personnal, society, ... everything
+not to spend energy building things, but understand and now how the natural works to live with it
+we try to create a good ground for the seeds to grow
+to protect the already existing ground before it gets damaged
+we want to celebrate the gift of living, experience
+understand who we are and what are our abilities in a free human existence
+… to pass this to the next generation
+we have to promote self-conscious and auto determination, free thinking for all
+we are a open group of people based in la palma, wanting to buy a piece of land to start somewhere !
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+# where are we ?
+we are everywhere, but our heart beat in la Palma
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+# how to be part of it: how to get involved ?
+donations ... ?
+i want to be part of it ! what can i do ? abilities ? how much time ?
