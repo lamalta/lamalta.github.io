@@ -1,6 +1,7 @@
 ---
 layout: page
 title: cells
+icon: sun-o
 ---
 # global network
 all can be part of this adventure

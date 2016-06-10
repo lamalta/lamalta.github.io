@@ -1,6 +1,7 @@
 ---
 layout: default
 title: home
+icon: heart
 ---
 
 Back to root, back to earth, to balance, to peace, back to simplicity and pureness with intelligent ways, with new points of view.

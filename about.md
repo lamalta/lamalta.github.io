@@ -1,6 +1,7 @@
 ---
 layout: page
 title: what ?
+icon: bullhorn
 ---
 
 # Why ?
