@@ -5,6 +5,7 @@ icon: sun-o
 ---
 # global network
 all can be part of this adventure
+
 everybody can support in many different ways
 even if you are far away, you are part of it
 free from babylon, we want to connect with all human beings ready to share their energy to build something else in this world
