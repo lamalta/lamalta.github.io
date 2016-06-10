@@ -9,7 +9,9 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">home</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">
+      <i class="fa fa-heart"></i> home
+    </a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -22,13 +24,13 @@
         {% if node.layout == "page" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
             <i class="fa fa-{{node.icon}}"></i> {{ node.title }}
-            </a>
+          </a>
         {% endif %}
       {% endif %}
     {% endfor %}
 
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
-      <i class="fa fa-{{node.icon}}"></i> {{ node.title }}
+      <i class="fa fa-newspaper-o"></i> what's up ?
     </a>
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">[ source ]</a>
     <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
