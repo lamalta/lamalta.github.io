@@ -22,14 +22,14 @@
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/{{ node.url }}">
             <i class="fa fa-{{node.icon}}"></i> {{ node.title }}
           </a>
         {% endif %}
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/posts.html">
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/news">
       <i class="fa fa-eye"></i> when ?
     </a>
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">[ source code ]</a>

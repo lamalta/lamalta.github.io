@@ -1,6 +1,7 @@
 ---
 layout: page
 title: cells
+permalink: /cells/
 icon: sun-o
 ---
 # global network
