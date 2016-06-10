@@ -3,7 +3,11 @@ layout: page
 title: cells
 permalink: /cells/
 icon: sun-o
+published: true
 ---
+# ?
+all the contents here are draft only and can be used for everybody's brain for free
+
 # global network
 all can be part of this adventure
 
