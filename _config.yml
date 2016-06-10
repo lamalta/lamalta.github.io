@@ -5,7 +5,7 @@ title:               familia
 tagline:             more than just an hippy place
 description:         casa de las colmenas
 url:                 http://lamalta.github.io
-baseurl:             ''
+baseurl:             http://lamalta.github.io
 paginate:            5
 
 # About/contact
