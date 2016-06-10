@@ -1,7 +1,7 @@
 ---
 layout: page
 title: what ?
-permalink: /what/
+permalink: /about/
 icon: bullhorn
 ---
 
