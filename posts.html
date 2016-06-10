@@ -4,6 +4,30 @@ title: as time goes on...
 ---
 
 <div class="posts">
+  {% for post in site.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}/{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+
+<!--
+don't really need pagination
+(not sure haw to make it work anyway)
+see: https://jekyllrb.com/docs/pagination/
+-->
+
+<!--
+<div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
@@ -35,4 +59,5 @@ title: as time goes on...
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+-->
 
