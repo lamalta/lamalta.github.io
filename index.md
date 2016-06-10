@@ -7,7 +7,7 @@ Back to the root
 
 Back to earth
 
-To balance, to peace, back to simplicity and pureness with intelligent ways & new points of view.
+To balance, to peace, to simplicity and pureness with intelligent ways & new points of view.
 
 We respond to this calling to be a human being with a truly open and creativity living experience
 
@@ -20,14 +20,18 @@ All one with bridges of co-creative love, showing this another world that is alr
 Enjoy with harmony
 
 ---
->don't say
-that i am very small or the responsability to save the world
-say: i and only i have the responsibility to save the world
+>don't say:
+>
+>« i am too small or don't have the responsability to save the world
+>
+>say:
+>
+>« i — and only i — have the responsibility to save the world
 
 ```
-the mistake happen when you want to control the bad weather
+mistake happen when you want to control the bad weather
 
-know the vibrations of the fear & pain
+feel the vibrations of the fear & pain
 
 we care about it
 
@@ -45,9 +49,13 @@ the power that we cannot explain
 
 it will decide at the end
 
-manifestation, feeling, why is the universe here ?
+feelings, matters... why is the universe here ?
 
-real freedom and life is to have passion, experience
+real freedom and life
+
+filled with passion
+
+full of experiences
 
 happyness
 
