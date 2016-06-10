@@ -1,9 +1,9 @@
 #permalink:           pretty
 
 # Setup
-title:               
-tagline:             'familia'
-description:         'casa de las colmenas'
+title:               familia
+tagline:             more than just an hippy place
+description:         casa de las colmenas
 url:                 http://lamalta.github.io
 baseurl:             ''
 paginate:            5

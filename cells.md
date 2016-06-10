@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cells
+title: cells
 ---
 # global network
 all can be part of this adventure
