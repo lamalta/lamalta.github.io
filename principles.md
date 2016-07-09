@@ -13,7 +13,7 @@ published: true
 	go beyond yourself
 	watch the consequences on the outside
 
-slow down, tranquilo
+### slow down, tranquilo
 	live simple, use less, re-use
 
 eat slow, breath deep
