@@ -1,13 +1,15 @@
+---
+layout: page
+title: principles
+permalink: /principles/
+icon: heart
+published: true
+---
 
-
-
-# PRINCIPLES
-
-
-find the balance
+# find the balance
 	listen to cycles: of the earth, of bodies
 
-that makes you and the others feel good
+## that makes you and the others feel good
 	go beyond yourself
 	watch the consequences on the outside
 
