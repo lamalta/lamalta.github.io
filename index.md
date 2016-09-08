@@ -3,15 +3,15 @@ layout: default
 title: home
 ---
 
-Back to the root
+## Back to roots, back to earth
 
-Back to earth
+![band](images/band.jpg)
 
 To balance, to peace, to simplicity and pureness with intelligent ways & new points of view.
 
 We respond to this calling to be a human being with a truly open and creativity living experience
 
-Me, you, we.
+You, us, we.
 
 Material, practical objects and things, in totally mirrored of ideals and beliefs
 

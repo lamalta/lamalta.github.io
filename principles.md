@@ -7,12 +7,14 @@ published: true
 ---
 
 ## find the balance
-	listen to cycles: of the earth, of bodies
+	listen to cycles of the earth, of bodies
+	life is made of changes & transformations
 
 ## love strong, trust life
 	make you and the others feel good
 	go beyond yourself
 	watch the consequences on the outside
+	deep respect & care about what's around
 
 ## slow down, tranquilo
 	live simple, use less, re-use
@@ -22,6 +24,7 @@ published: true
 ## don't take it personal
 	know your ego and work on it
 	go over personalities
+	non violent communication
 
 ## gather and celebrate
 	make parties, music, art
@@ -37,9 +40,11 @@ published: true
 
 ## avoid monoculture
 	measure, count is the root of capitalism
+	make life a living art
 
 ## think global
 	observe and understand
+	everything is connected
 	avoid mediations, do not delegate to much
 	get means of production
 
@@ -62,7 +67,6 @@ published: true
 
 ## everything contributes, everyone creates
 	welcome the unknown
-	find the balance
 	individually we are powerful, together we are unstoppable
 
 ## the solution is within the problem
@@ -70,7 +74,7 @@ published: true
 	there are more solutions than problems
 	don't force anything, but strongly resist to external powers
 	don't take decisions if you're not involved in the making or consequences of them
-	
+
 ## use your energy 
 	to make new things that make the old system obsolete
 	for emancipation & autonomy
@@ -81,3 +85,4 @@ published: true
 	use your edge
 	don't trust yourself neither the others
 	listen to intentions to understand messages
+
