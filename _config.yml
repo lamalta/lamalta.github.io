@@ -1,9 +1,12 @@
 #permalink:           pretty
 
 # Setup
+# FIRST TITLE
 title:               familia
-tagline:             more than just a hippie place
-description:         casa de las colmenas
+# SUBTITLE
+tagline:             yet more than another hippie place
+# WITHIN THE MENU
+description:         where do you want to go ?
 paginate:            5
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)

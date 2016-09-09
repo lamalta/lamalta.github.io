@@ -7,7 +7,7 @@ icon: bullhorn
 
 # why ?
 
-![roots](images/roots.jpg)
+![roots](../images/roots.jpg)
 
 The world is in a critical point. First time in the history all the world is united, like a global community. Same needs and same problems touch each of us
 
