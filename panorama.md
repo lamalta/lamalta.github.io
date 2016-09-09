@@ -40,38 +40,47 @@ How? SIMPLE AND DIRECT !
 
 
 
-# The project
+# The project — general principles
 
 ## Holistic world view
-A complete world view with spiritual & scientific dimensions in all layers,from personal to cosmical. Enter and use the new worlds to disrobe this world view and understanding.
-Create bridges of understanding between east & west, between spirituality and saints.
+> Deep and practical understanding of the reactions in life: everything is connected. It's not theory but a living truth. Because of this we must take our personal responsibility.
 
-> Deep and practical understanding of the reactions in life, that everything is connected, is not theory, but a living truth, and because of this we must take our personal responsibility.
+A complete world view with spiritual & scientific dimensions in all layers,from personal to cosmical. Enter and use the new words to disrobe this world view and understanding.
+Create bridges of understanding between east & west dimensions, spirituality and saints.
 
-## Energetically social spirituality
-- see the living prosech on earth with a deeper connection with the universe. - explore our deeper life mission and purpose.
+## Energy — spirit — social
+> Wake up conscience transmission / Personal support / grow the talents
+
+- see the living prosech on earth with a deeper connection with the universe
+- explore our deeper life mission and purpose
 - start exercise & practice for spiritual awake and consciousness transformation
 - focus meditation to connect personal & community spirit paths
 
-## Wake up the conscience transmission
-> Personal support / grow the talents
+Understand what means support of personal growth, and support to the others to grow. Learning that a group of strong personalities is able to work together in a organic dome of common and reactive responsibility. 
 
-Understand what means support of personal growth, and support to the others to grow. Learning that a group of strong personalities is able to work together in a organic dome of common and reactive responsibility. Connect the ways of personal spiritual transformation and common social transmission. Put the spiritual wake and the transformation of our conscious in the agenda of social revolution. Put all social revolutionary actions in the spiritual agenda. Provide and support the spiritual groups and the social revolution groups to work together, so both can achieve their goals. 
+- Connect the ways of personal spiritual transformation and common social transmission.
+- Put the spiritual wake and transformation of our consciousness in the agenda of the social revolution.
+- Put all social revolutionary actions in the spiritual agenda.
+- Provide and support the spiritual groups and the social revolution groups to work together, so both can achieve their goals. 
+
 We inspire and support young people to exercise in the energetically social spirituality. 
 
-## Ecology
+## Ecology — connect with the Earth
+> Live with just the necessary & full respect to the environment
+
 Create strong connections with the Earth, with the natural, a conscious that is necessary for a ecocommunity to be. Understand how important is to protect the natural. Learning to hear natural is a driver master. A promise that we will start the actions to protect and give respect to the earth, and we start by our body and spirit. We want to reconnect with natural with our body, mind and spirit.
-> Living with the necessary, live with respect to the environment.
 
 Connect hearts & souls worlds with economy and life style choices. Helping the members to grow a bigger connection with the purpose of there life. Propose choices that offering in planets balance and the humans unity.
 
-## Accept of disfranchise
+## Accept of disfranchise — common decisions
 Inelegant ways to communicate/way to take decisions, solutions in crises.Conversation about what we mean by Democratic way to take dissensus. Understand the role of natural leaders in all the process, and understand that is totally different to the old hierarchical role. Discover ways and tools to react, disagree, solve relationship problems. The connections between planing, organization, actions, aksiologisis in social life.
 Experience the production of common decisions.
 
 ## Celebrate life, creativity and arts
-We present and use all arts like a wonderful path for personal grow, healing and transformation tool, that can be use be everybody. We recognize and expect the unlimited creativity like our real natural characteristic, like a no stop flow from the cosmic source. Create a harmonic and beautiful environment to inspire, to provide creativity with free and joyful ways.
-Create events and Eco/social festivals is a common expression, that a different world that we dream already exist. By the events provide stronger relationships between participants, create a strong cultural and celebration tradition. Understand that the hies form of creativity, personal or social, is to make our life a living art.
+> Understand that the hies form of creativity, personal or social, is to make our life a living art
+
+We present and use all arts like a wonderful path for personal grow, healing and transformation tool, that can be used by everybody. We recognize and expect the unlimited creativity like our real natural characteristic, like a nonstop flow from the cosmic source. Create a harmonic and beautiful environment to inspire, to provide creativity with free and joyful ways.
+Create events and eco/social festivals is a common expression, that a different world that we dream already exist. By the events provide stronger relationships between participants, create a strong cultural and celebration tradition.
 
 ## Economy
 > From a money-driven economy to a fair trade and sustainable economy
@@ -88,67 +97,53 @@ What need to change ?
 
 
 
-# Cycles of activity
+# Practical cycles of activity
+> When people work together, they are unstoppable
 
-> When people work together, they become strong
+We create 9 basic cycles of activities and try to unite people in common action with same dream. The same moment all thematically cycles support each others activity's and they part of a big democratic and conscious powerful tool. 
 
-We create 9 basic cycles of activity's and try to unite people in common action with same dream.The same moment all thematically cycles support its others activity's and they part of a big democratic and conscious powerful tool. 
-
-1. ART
-We like to create a strong local and global alternative cultural network, and by this we provide, support and promote all the artists. The some moment the artist support all the activity's, festivals, events, workshops, and help to share the message of change.
-In this cycles belong all the musics, dancers, actors, acrobats, hand crafters etc.
+1. ARTS
+We like to create a strong local and global alternative cultural network, and by this we provide, support and promote all the artists. The same moment the artist support all the activities, festivals, events, workshops, and help to share the message of change.
+In this cycles belong all the musics, dancers, actors, acrobats, hand crafters and poets
 
 2. OPEN UNIVERSITY
-We move on to create a alternative multicultural space, a open place to knowledge with holistically, practical and emotionally intelligent ways, so the need of learning to become again a enjoy-foul and 
-useful experience ho provide personal and group growth. With every day activity's, lessons, work shops, seminars, evens, from people ho like to share there experience to the others, 
-for the  blue children s, from hart to hart, ~for the new day to come.
+We move on to create an alternative multicultural space, an open place for knowledge with holistically, practical and emotionally intelligent ways, so the need of learning to become again a joyful and useful experience which provide personal and group growth. With every day activities, lessons, workshops, seminars, events, from people who like to share there experience to the others, for the blue childrens, heart to heart, for new days to come.
 
-3. NATURAL HEALTH CENTER
-Healing
-Understand that human is a holistic exist, a connection of mind, body, soul and spirit.
-Understand that we heal our self's when we heal our connection with earth In the healing scenario give attention in the needs of the person,with a holistic way of view, all his needs. 
-We recognize the wisdom of the traditional ways to heal, and the connections  with the modern medical knowledge. We recognize that every human is unic and that everyone have his personal path to be healthy. We recognize that prolipsy is the best way to be health. 
-We move on to create a natural health center. The official health system can safe our life in 
-some cases, but in general lines is under the control of big pharmaceutical and petrol 
-company's ho look only for the profit .There is so mach nolage now, so many different ways for humans to live in health and in balance. We wand to bring all the healers and all this nolage and tools of natural healing in a open space for everyone. 
+3. NATURAL HEALING
+Understand that human is a holistic existence, a connection of mind, body, soul and spirit. Understand that we heal ourselves when we heal our connection with earth. In the healing scenario give attention to the needs of the person, with a holistic way of view, all his needs. We recognize the wisdom of the traditional ways to heal, and the connections  with the modern medical knowledge. We recognize that every human is unique and that everyone have his personal path to be healthy. We recognize that prolipsy is the best way to be healthy. We move on to create a natural health center. The official health system can save our life in some cases, but general lines is under the control of big pharmaceutical and petrol companies only interested by profit. There is so much knowledge now, so many different ways for humans to live in health and in balance. We want to bring all the healers and all this knowledge and tools of natural healing in an open space for everyone. 
 
 4. PERMACULTURE
-Permaculture is a way to live in balance with the environment, with abundance and all that 
-with the less off efforts. Organic gardens and food production, Eco buildings, solar and wind 
-energy..... A way to use all the movements to support its other and like this every movement 
-get stronger .Lets see the practical ways to bring more permacoultura in La Palma! 
+Permaculture is a way to live in balance with the environment, with abundance and all that with very few efforts. Organic gardens and food production, ecobuildings, solar and wind energy... a way to use all the movements to support each other and like this every movement get stronger. Let's see the practical ways to bring more permaculture in La Palma !
 
 - Local food
 
 Promote the benefits of gardening, sale, and use local agriculture products. Make the connection between personal and global health and growth. Information about the exist and no sustainable ways of production and trade. Enter in methods and ways to product organic goods. Provide tools for direct and practical experience.
 
-- Natural bilding                                                              
+- Natural building
 
-Now all the problems of modern ways and materials to build. Now about all green and natural alternative ways to build and all the good thinks about Eco building.Now about the local ways and architectural character. Propose the rebuilds and reuse of old abandon houses or villages.
+Now all the problems of modern ways and materials to build. Now about all green and natural alternative ways to build and all the good thinks about ecobuilding. Now about the local ways and architectural character. Propose the rebuilds and reuse of old abandon houses or villages.
 
 - Green technology
 
-Alternative solar, wind, faire, and water energy systems, reserts for new ways.
+Alternative solar, wind, fire, and water energy systems, reserts for new ways.
 Recreate ecosystems after natural disaster
 Knowledge in basic ecology. Practical knowledge/tools
 
 - Connections~Reactions~Organisation
 
-Be in touch with all the persons and farms ho all ready make permacoultura or wand to get involve with and start to unite with common actions. Organize work shops, seminars, visitors, woofers, common projects, common productions and sale spots.
+Be in touch with all the persons and farms who already make permaculture or want to get involve with and start to unite with common actions. Organize workshops, seminars, visitors, woofers, common projects, common productions and sale spots.
 
-> Permacoultura is the future, is the biggest revolution action a person can do in our times. For a green environment, health and independent
+> Permaculture is the future, is the biggest revolution action a person can do in our times. For a green environment, health and independent
 
-5. ECO VILLAGES PROJECT
+5. ECOVILLAGES PROJECT
 This is the heart of the project, a living community in the natural biosphere
 
-> THE TRU EXAMPLE ● HOW HUMAN BEN ~ COOD LIVE
+> THE TRUE EXAMPLE ● HOW HUMANS CAN LIVE TOGETHER
 
 Full design Eco villages plan
 A grate power of change comes by create a community.
-Learning how we can create a community, organize a group/heart, get connected with the same vision, create trust and good will relationships. Learning to work from the hart in everything we do. To bring in the quality's of compassion, deep understand, forgiveness and solidarity, in our relationships. 
-I see the tree and eco houses, the tipys and yurts, the solar cooker and the beautiful 
-gardens foul of fruits and aromas, children s play in the school and the work shops all 
-ready starts for the visitors, and the music fly up to the big holy mounter ! 
+Learning how we can create a community, organize a group/heart, get connected with the same vision, create trust and good will relationships. Learning to work from the heart in everything we do. To bring in the qualities of compassion, deep understanding, forgiveness and solidarity, in our relationships. 
+I see the tree and eco houses, the tipys and yurts, the solar cooker and the beautiful gardens foul of fruits and aromas, children s play in the school and the work shops already starts for the visitors, and the music fly up to the big holy mounter ! 
 
 6. UP SIDE DOWN ~ FESTIVAL ~ and others...
 This is a really magic moment for La Palma and for all ho get involve to create this holistically eco and social event. For three days, from the morning until late in the night, all the actions, the net works, the local society, get part in a big celebration of the natural way. A rain of work shops run the same time, children activity's, social movement and associations, crafters and eco producers, yoga, tai chi , natural ways for healing, but also create actions to provide the no violent communication, the exchange economy, dragon dreaming and other tools for the people to get in reaction, get inspire, get active, start to care! The same time allot of shows, dance, acrobats, theater groups, and allot allot of music, create a amazing feeling in the place.
