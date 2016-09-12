@@ -18,7 +18,7 @@ People are more than ever separated from the others and from the normal natural 
 
 That’s why, because we care and believe in this living transition to a more enlightened world. Hopefully, there is so many tools, so much knowledge that we can use, so much experiences from the past, and so many people, groups, actions existing right now with care.
 
-Let’s unite
+Let’s unite !
 
 # who are we ? our vision & philosophy. what we expect ?
 
