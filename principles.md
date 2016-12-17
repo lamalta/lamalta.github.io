@@ -5,7 +5,14 @@ permalink: /principles/
 icon: heart
 published: true
 ---
+## respeta Gaia
+	proteger Tierra y su diversidad
+	todos los recursos son regalos
 
+## respeta humano
+    sociedad : ser completamente humano, libre, independiente
+    todo lo que esta a contra de eso no se debe cooperar
+    
 ## find the balance
 	listen to cycles of the earth, of bodies
 	life is made of changes & transformations
